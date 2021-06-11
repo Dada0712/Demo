@@ -1,4 +1,6 @@
 body{
    background: url(fondo.jpg);
-     
+   background-size: 100%;  
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
