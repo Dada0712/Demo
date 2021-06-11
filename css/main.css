@@ -1,14 +1,34 @@
 
 form {
    width: 25%;
-   border: 1px solid white;
+   border: 5px solid white;
    margin: auto;
    padding: 25px;
    background: #009FFF;  /* fallback for old browsers */
    background: -webkit-linear-gradient(to right, #ec2F4B, #009FFF);  /* Chrome 10-25, Safari 5.1-6 */
    background: linear-gradient(to right, #ec2F4B, #009FFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+img{
+   height: 150px;
+   width: 150px;
+   margin: auto;
+   display: block;
+}
 
+label{
+   color: white;
+ }
+
+input[type="submit"]{
+   background:white;
+   cursor: pointer;
+}
+
+input{
+   margin-bottom: 20px;
+   width: 90%;
+   box-sizing: border-box;
+}
 body{
    background: #2980B9;  /* fallback for old browsers */
    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
