@@ -19,11 +19,6 @@ label{
    color: white;
  }
 
-input[type="submit"]{
-   background:white;
-   cursor: pointer;
-}
-
 input{
    margin-bottom: 20px;
    width: 90%;
