@@ -1,4 +1,11 @@
 *{box-sizing:border-box;}
+body{
+	background-image: url(resta.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+}
 
 form{
 	width:300px;
