@@ -19,7 +19,7 @@ body {
   margin-top: 50px;
   border-radius: 4px;
   font-family: 'calibri';
-  color: white;
+  color: red;
   box-shadow: 7px 13px 37px #000;
 }
 
@@ -69,7 +69,7 @@ body {
 }
 
 .form-register .botons:hover {
-  color:white;
+  color:blue;
   text-decoration: underline;
   background: #283c3e;
   font-size: 18px;
