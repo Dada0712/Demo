@@ -5,10 +5,11 @@
 }
 
 body {
-  background:blueviolet;
+  background-image: url("../img/resta.png");
   text-align: center;
   background-repeat:repeat;
 }
+
 
 
 .form-register {
@@ -19,7 +20,7 @@ body {
   margin-top: 50px;
   border-radius: 4px;
   font-family: 'calibri';
-  color: red;
+  color: lightgreen;
   box-shadow: 7px 13px 37px #000;
 }
 
