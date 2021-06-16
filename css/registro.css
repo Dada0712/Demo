@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('resta.png');
+  background:blueviolet;
   text-align: center;
   background-repeat:repeat;
 }
@@ -69,7 +69,7 @@ body {
 }
 
 .form-register .botons:hover {
-  color:blue;
+  color:white;
   text-decoration: underline;
   background: #283c3e;
   font-size: 18px;
